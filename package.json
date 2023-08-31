@@ -1,0 +1,28 @@
+{
+  "name": "odin-recipes",
+  "version": "1.0.0",
+  "description": "My first website excercise in The Odin Project",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xBromsson/odin-recipes.git"
+  },
+  "keywords": [
+    "The",
+    "Odin",
+    "Project"
+  ],
+  "author": "Marvin Brown",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/xBromsson/odin-recipes/issues"
+  },
+  "homepage": "https://github.com/xBromsson/odin-recipes#readme",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
